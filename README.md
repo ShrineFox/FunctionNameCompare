@@ -9,4 +9,5 @@ If anything other than your function names happens to include the old function n
 Run FunctionNameCompare.exe from the command prompt and enter the following:  
 ``FunctionNameCompare.exe -n "C:\Path\To\NewLibraryFolder" -o "C:\Path\To\OldLibraryFolder" -i "C:\Path\To\YourFlowscript.flow" ``
 Example:  
-``FunctionNameCompare.exe -n "D:\Games\Persona\Compiler Libraries\TGE\Persona4Golden" -o "D:\Games\Persona\Tools\P5\AtlusScriptCompiler\Libraries\Persona4Golden\Modules" -i "C:\Users\ryans\Documents\GitHub\Persona-4-Golden-Mod-Menu\test\ModMenu.flow"``
+````FunctionNameCompare.exe -n "D:\Games\Persona\Tools\P5\AtlusScriptCompiler\Libraries\Persona4Golden\Modules" -o "C:\Users\ryans\Downloads\AtlusScriptToolchain (4)\Libraries\Persona4Golden" -i "C:\Users\ryans\Documents\GitHub\Persona-4-Golden-Mod-Menu\field\field.bf.flow"``
+
