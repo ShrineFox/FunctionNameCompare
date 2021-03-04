@@ -15,4 +15,4 @@ This program can also overwrite an old library with function names from the new 
 Run FunctionNameCompare.exe from the command prompt and enter the following:  
 ``FunctionNameCompare.exe -o "C:\Path\To\OldLibraryFolder" -n "C:\Path\To\NewLibraryFolder" -u -p``
 ## Example 
-````FunctionNameCompare.exe -o "D:\Games\Persona\Tools\P5\AtlusScriptCompiler\Libraries\Persona4" -n "D:\Games\Persona\Tools\P5\AtlusScriptCompiler\Libraries\Persona4Golden" -u -p``
+``FunctionNameCompare.exe -o "D:\Games\Persona\Tools\P5\AtlusScriptCompiler\Libraries\Persona4" -n "D:\Games\Persona\Tools\P5\AtlusScriptCompiler\Libraries\Persona4Golden" -u -p``
